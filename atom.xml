@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hacklabs.cn</id>
     <title>HackLabs.cn</title>
-    <updated>2020-06-25T03:58:14.115Z</updated>
+    <updated>2020-06-25T03:59:36.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hacklabs.cn"/>
     <link rel="self" href="https://hacklabs.cn/atom.xml"/>
@@ -14,7 +14,7 @@
         <id>https://hacklabs.cn/post/hello-gridea/</id>
         <link href="https://hacklabs.cn/post/hello-gridea/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
+        <updated>2020-06-25T03:59:23.000Z</updated>
         <content type="html"><![CDATA[<p>将知识转化行为流程化，可以减少我们因为多次选择而消耗掉的脑力. 我们只需要定期检视流程做对应改进或升级即可。毕竟它不是经常要变的东西，就如同我们的习惯一样。在这个过程中，我们可以使对应的软件工具代替或简化相关的处理过程即可，但不可或缺的都需要我们大脑的思考。</p>
 <h2 id="一-输入管理">一、输入管理</h2>
 <p>主要是信息源的管理，换个角度也可理解为注意力的管理，选择吸收哪些信息是取决于个人的意识决定的。所以，我们需要从三个方面来进行管理:</p>
